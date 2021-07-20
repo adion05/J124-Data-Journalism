@@ -4,4 +4,5 @@
 # Ashley Dionicio
 ## Hello my name is Ashley and I am a student at UC Berkeley
 
-!['Double Exposure','A double exposed picture of sunflowers and a little boy'](/File path to the image OR an image URL)
+!['The Moon','A picture of the moon during the blood moon'](DSCN0209.JPG)
+*A picture I took of the moon during the 2021 blood moon*
