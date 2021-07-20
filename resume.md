@@ -1,5 +1,5 @@
 # J124-Data-Journalism
-“Intro to Data Journalism Markdown practice resume
+Intro to Data Journalism Markdown practice resume
 
 # Ashley Dionicio
 ## Hello! My name is Ashley and I am a crocheter, painter, photogropher, and a student at UC Berkeley.
